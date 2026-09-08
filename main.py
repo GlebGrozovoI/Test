@@ -5,6 +5,5 @@ def main():
     print("Program is done!")
     
     #pass
-    print("THIS IS THE MAIN BRANCH")
 if __name__ == "__main__":
     main()
